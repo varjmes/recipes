@@ -1,7 +1,7 @@
 # James' Salsa
 
 <center>
-  <img src='../assets/james-salsa.jpeg' alt='' />
+  <img src='../assets/james-salsa.jpeg' alt='' width='400px'/>
 </center>
 
 ## Ingredients
