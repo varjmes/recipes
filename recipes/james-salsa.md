@@ -1,8 +1,8 @@
 # James' Salsa
 
-<center>
-  <img src='../assets/james-salsa.jpeg' alt='' width='400px'/>
-</center>
+_Make some [tortilla chips] to go with!_
+
+<img src='../assets/james-salsa.jpeg' alt='' width='400px'/>
 
 ## Ingredients
 
@@ -20,3 +20,5 @@
 1. Chop everything choppable
 2. Mix it all together in a bowl
 3. Eat delicious salsa
+
+[tortilla chips]: ./leftover-tortilla-chips.md
